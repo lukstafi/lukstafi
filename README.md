@@ -3,4 +3,4 @@
 * In 2015, I defended my PhD thesis on [inferring the properties of programs](http://ii.uni.wroc.pl/~lukstafi/pmwiki/uploads/Infer/invargent-simple-slides.pdf). I finished [the code in March 2015](https://github.com/lukstafi/invargent).
 * Between 2015-2021 I worked at Google, on knowledge representation and semantic parsing (in C++), then briefly on deep reinforcement learning (Python/[JAX](https://github.com/google/jax)).
 * I used Emacs for two decades. In 2022 I switched to Visual Studio Code. I wrote [Navi Parens](https://github.com/lukstafi/navi-parens) with what I was missing from Emacs, planning to enhance it with some [TeXmacs](https://texmacs.org) features. I thought of giving up on TeXmacs too but maybe I'll stick with it.
-* My main project is [OCANNL](https://github.com/lukstafi/ocannl), a from-scratch deep learning framework fully in OCaml.
+* My main project is [OCANNL](https://github.com/ahrefs/ocannl), a from-scratch deep learning framework fully in OCaml. Since April 2024, my work on OCANNL is sponsored by [Ahrefs](https://ocaml.org/success-stories/peta-byte-scale-web-crawler)! [Visit the Ahrefs website](https://ahrefs.com/).
