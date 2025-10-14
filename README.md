@@ -19,11 +19,6 @@ Paper highlight: [First-Order Logic with Counting for General Game Playing](http
 I worked on knowledge representation and semantic parsing (in C++), then briefly on deep reinforcement learning (Python/JAX).
 </details>
 
-<details><summary>I wrote a VS Code extension for structured cursor movement</summary>
-
-[Navi Parens](https://github.com/lukstafi/navi-parens). I used Emacs for two decades. In 2022 I switched to Visual Studio Code (now often Cursor).
-</details>
-
 <details><summary> OCANNL: a from-scratch deep learning framework fully in OCaml</summary>
 
 [OCANNL](https://github.com/ahrefs/ocannl) is my main project currently.
