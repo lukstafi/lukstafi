@@ -11,7 +11,7 @@ Intended for an intermediate (1-7) and a potential advanced course.
 [Introduction slides](https://github.com/lukstafi/invargent/blob/master/doc/invargent-simple-slides.pdf), [thesis](https://github.com/lukstafi/invargent/blob/master/doc/lukstafi-phd-thesis.pdf)</details>
 
 <details><summary>Between 2015-2021 I worked at Google</summary>
-I worked on knowledge representation and semantic parsing (in C++), then briefly on deep reinforcement learning (Python/[JAX](https://github.com/google/jax)).</details>
+I worked on knowledge representation and semantic parsing (in C++), then briefly on deep reinforcement learning (Python/JAX).</details>
 
 <details><summary>I wrote a VS Code extension for structured cursor movement</summary>
 
