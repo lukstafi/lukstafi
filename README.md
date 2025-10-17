@@ -22,7 +22,7 @@ I worked on knowledge representation and semantic parsing (in C++), then briefly
 <details><summary> OCANNL: a from-scratch deep learning framework fully in OCaml</summary>
 
 [OCANNL](https://github.com/ahrefs/ocannl) is my main project currently.
-Highlights: [slides _Shapes and Einsum_](https://ahrefs.github.io/ocannl/docs/shapes_and_einsum.html), [migration guide from PyTorch to OCANNL](https://github.com/ahrefs/ocannl/blob/master/docs/migration_guide.md).
+Highlights: [slides _Shapes and Einsum_](https://ahrefs.github.io/ocannl/docs/shapes_and_einsum.html), [migration guide from PyTorch to OCANNL](https://ahrefs.github.io/ocannl/docs/migration_guide.html).
 </details>
 
 _Since April 2024, my work on OCANNL is sponsored by [Ahrefs](https://ocaml.org/success-stories/peta-byte-scale-web-crawler)!_
